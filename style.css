@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+}
+ul{
+    list-style: none;
+}
